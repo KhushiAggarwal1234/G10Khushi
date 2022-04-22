@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE><B> why i like togo swimming </B></TITLE>
+</HEAD>
+<BODY>
+<h1> I like to go swimming in the summer.</h1>
+<p><I> Swimming is my most favourite activity in the summer.When the sun is shinning and the air is warm, you will find me dipping into my backyard pool.It's not an impressive pool, only three feet deep, but its's ,ine.</I><p>
+<p><U> There are three reasons i like to swim:</u></p>
+<ul>
+<li>I get lots of exercise </li>
+<li> I enjoy the freedom </li>
+</ul>
+</BODY>
+</HTML>
